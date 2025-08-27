@@ -1,3 +1,3 @@
 # **DOCUMENTAÇÕES DIVERSAS**
 
-### **1. Introdução a API Rest (![Introdução API Rest]())**
+### **1. Introdução a API Rest (![Introdução API Rest](api.ipynb))**
